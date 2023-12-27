@@ -6,4 +6,4 @@ I am a passionate software developer with a profound enthusiasm for technology. 
 ### Currently Learning 🌱
 React Native, Machine Learning
 
-### Technologies & Tools 💻
+### Technologies 🛠
