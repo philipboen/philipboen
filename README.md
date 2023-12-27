@@ -7,4 +7,4 @@ I am a passionate software developer with a profound enthusiasm for technology. 
 React Native, Machine Learning
 
 ### Technologies 🛠
-`Next.js`, `React.js`, `Node.js`, `Python`, `MongoDB`, `Javascript`, `TailwindCSS`, `C++`
+`Next.js`, `React.js`, `Node.js`, `Express.js`, `Python`, `MongoDB`, `MySQL`, `Typescript`, `TailwindCSS`, `C++`
