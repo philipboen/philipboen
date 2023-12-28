@@ -18,4 +18,4 @@ React Native, Machine Learning
 
 
 
- `Express.js`, `Python`, `MongoDB`, `MySQL`, `Typescript`, `TailwindCSS`, `C++`
+`MongoDB`, `MySQL`, `Typescript`, `TailwindCSS`, `C++`
