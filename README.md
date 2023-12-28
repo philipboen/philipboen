@@ -6,7 +6,7 @@ I am a passionate software developer with a profound enthusiasm for technology. 
 ### Improving on 🌱
 Next.js, Python
 
-### Interested in 💡
+### Interested in ✨
 React Native, Machine Learning
 
 ### Technologies 🛠
