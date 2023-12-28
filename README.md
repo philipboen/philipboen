@@ -3,7 +3,10 @@
 ### Hey there! 👋
 I am a passionate software developer with a profound enthusiasm for technology. My journey in the ever-evolving realm of software development has been an exhilarating exploration of creativity and problem-solving. Welcome to my digital space! 🚀
 
-### Currently Learning 🌱
+### Improving on 🌱
+Next.js, Python
+
+### Interested in 💡
 React Native, Machine Learning
 
 ### Technologies 🛠
