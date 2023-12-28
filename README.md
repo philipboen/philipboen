@@ -10,6 +10,6 @@ Next.js, Python
 React Native, Machine Learning
 
 ### Technologies 🛠
-![Static Badge](https://img.shields.io/badge/Next.js-%23EDEDED?style=for-the-badge&logo=nextdotjs&labelColor=black) ![Static Badge](https://img.shields.io/badge/REACT.js-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Next.js-%23EDEDED?style=for-the-badge&logo=nextdotjs&labelColor=black) &nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/REACT.js-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
 
 `React.js`, `Node.js`, `Express.js`, `Python`, `MongoDB`, `MySQL`, `Typescript`, `TailwindCSS`, `C++`
