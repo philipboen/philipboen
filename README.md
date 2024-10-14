@@ -3,9 +3,6 @@
 ### Hey there! 👋
 I am a passionate software developer with a profound enthusiasm for technology. My journey in the ever-evolving realm of software development has been an exhilarating exploration of creativity and problem-solving. Welcome to my digital space! 🚀
 
-### Improving on 🌱
-Python
-
 ### Interested in ✨
 DevOps
 
