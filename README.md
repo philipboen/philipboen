@@ -6,7 +6,7 @@ I am a passionate software developer with a profound enthusiasm for technology. 
 
 ### Interested in
 
-Infrastructure Automation
+Containerization, Orchestration and Infrastructure Automation
 
 ---
 
