@@ -1,4 +1,4 @@
-[![Banner](https://github.com/philipboen/philipboen/blob/main/banner.svg?raw=true "Banner")](https://github.com/philipboen)
+[![Banner](./banner.svg)](https://github.com/philipboen)
 
 ### Hey there! 👋
 
@@ -18,16 +18,16 @@ JavaScript • Python • Golang • TypeScript • Bash
 
 #### Frameworks & Libraries
 
-React • Next.js • Tanstack Router • Zustand • Prisma ORM • Zod • FastAPI • Node.js • Express • Mongoose • Redux Toolkit • TailwindCSS • Scikit-learn • NumPy • XGBoost • Pandas
+React • Tanstack Router • Zustand • Zod • FastAPI • Node.js • Express • Bun • Hono • Drizzle ORM • TailwindCSS • Scikit-learn • NumPy • XGBoost • Pandas
 
 ---
 
 #### Tools & Technologies
 
-Git • Kubectl • Docker • Figma • Miniconda • AWS CLI • Doctl • Prometheus • Kubernetes Dashboard
+Git • Kubectl • Docker • Azure CLI • Helm • K3d • pnpm • uv • Justfile • Turborepo • Figma
 
 ---
 
 #### Databases
 
-MySQL • PostgreSQL • MongoDB • Redis
+MySQL • PostgreSQL • Redis
