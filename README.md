@@ -1,4 +1,4 @@
-[![Banner](./assets/banner.png)](https://github.com/philipboen)
+[![Banner](https://me.biswana.store/github/banner.svg)](https://github.com/philipboen)
 
 ### Hey there! 👋
 
