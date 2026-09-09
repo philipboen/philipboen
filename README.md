@@ -1,4 +1,4 @@
-[![Banner](./banner.svg)](https://github.com/philipboen)
+[![Banner](./assets/banner.png)](https://github.com/philipboen)
 
 ### Hey there! 👋
 
